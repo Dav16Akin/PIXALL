@@ -13,5 +13,5 @@ body {
 
 
 .input-group {
-    width: 50%;
+    max-width: 80%;
 }
